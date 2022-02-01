@@ -97,24 +97,15 @@ const Footer = () => {
                   <li>
                     <Link href='/contact'>Contact</Link>
                   </li>
-				  <li className='nav-item'>
-                          <Link href='/leadership' activeClassName='active'>
-                            <a className='nav-link'>Leadership Team</a>
-                          </Link>
-                        </li>
-                        <li className='nav-item'>
-                          <Link href='/privacy-policy' activeClassName='active'>
-                            <a className='nav-link'>Privacy Policy</a>
-                          </Link>
-                        </li>
-                        <li className='nav-item'>
-                          <Link
-                            href='/terms-condition'
-                            activeClassName='active'
-                          >
-                            <a className='nav-link'>Terms & Conditions</a>
-                          </Link>
-                        </li>
+				  <li>
+				  	<Link href='/leadership'>Leadership Team</Link>
+                  </li>
+                  <li>
+                     <Link href='/privacy-policy'>Privacy Policy</Link>
+                  </li>
+                  <li>
+                          <Link href='/terms-condition'>Terms & Conditions</Link>
+					</li>
                 </ul>
               </div>
             </div>
