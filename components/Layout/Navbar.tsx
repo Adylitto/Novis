@@ -286,7 +286,7 @@ const Navbar = () => {
                       </a>
                     </Link>
                   </div>
-                  <div className='option-item'>
+                  {/* <div className='option-item'>
                     <select className='form-select'>
                       <option value='0'>English</option>
                       <option value='1'>Türkçe</option>
@@ -295,7 +295,7 @@ const Navbar = () => {
                       <option value='4'>Italiano</option>
                       <option value='5'>Polski</option>
                     </select>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>

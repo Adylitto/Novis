@@ -158,7 +158,7 @@ const Banner = () => {
                 </button>
               </div>
             </div>
-            <Link href='https://www.coinbase.com/accounts'>
+            <Link href='https://accounts.binance.com/en/register?ref=IR8OXGEF'>
               <button type='submit'>
                 <i className='bx bxs-hand-right'></i> Buy With Visa
               </button>
@@ -171,7 +171,7 @@ const Banner = () => {
                 <p>
                   Easy, fast and secure!
                 </p>
-                <Link href='https://www.coinbase.com/signup'>
+                <Link href='https://accounts.binance.com/en/register?ref=IR8OXGEF'>
                   <a className='default-btn'>
                     <i className='bx bxs-user'></i> Register Now
                   </a>

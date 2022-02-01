@@ -43,7 +43,7 @@ const LoginForm = () => {
                 </a>
               </div>
             </div>
-            <Link href='https://www.coinbase.com/signin'>
+            <Link href='https://accounts.binance.com/en/register?ref=IR8OXGEF'>
               <button type='submit'>Login</button>
             </Link>
             

@@ -18,13 +18,11 @@ const RegisterArea: React.FC<RegisterProps> = ({
           <div className='row align-items-center justify-content-center'>
             <div className='col-lg-6 col-md-12'>
               <div className={`cta-content ${blackText}`}>
-                <h2>Start Trading on Novis</h2>
+                <h2>Start Trading now</h2>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam, quis nostrud exercitation ullamco.
+                  
                 </p>
-                <Link href='https://www.coinbase.com/signup'>
+                <Link href='https://accounts.binance.com/en/register?ref=IR8OXGEF'>
                   <a className='default-btn'>
                     <i className='bx bxs-user'></i> Register Now
                   </a>

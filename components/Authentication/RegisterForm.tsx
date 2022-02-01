@@ -31,7 +31,7 @@ const RegisterForm = () => {
                 placeholder='Confirm Password'
               />
             </div>
-            <Link href='https://www.coinbase.com/signup'>
+            <Link href='https://accounts.binance.com/en/register?ref=IR8OXGEF'>
               <button type='submit'>Register</button>
             </Link>
           </form>

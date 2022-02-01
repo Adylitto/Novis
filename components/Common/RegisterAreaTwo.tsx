@@ -8,11 +8,9 @@ const RegisterAreaTwo = ({ title }: { title: string }) => {
           <div className='account-register-content'>
             <h2>{title}</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco.
+              
             </p>
-            <Link href='https://www.coinbase.com/signup'>
+            <Link href='https://accounts.binance.com/en/register?ref=IR8OXGEF'>
               <a className='default-btn'>
                 <i className='bx bxs-user'></i> Register Now
               </a>

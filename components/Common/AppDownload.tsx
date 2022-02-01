@@ -17,12 +17,12 @@ const AppDownload = () => {
                   
                 </p>
                 <div className='btn-box'>
-                  <a href='#' className='playstore-btn' target='_blank'>
+                  <a href='https://accounts.binance.com/en/register?ref=IR8OXGEF' className='playstore-btn' target='_blank'>
                     <img src='/images/play-store.png' alt='image' />
                     Get It On
                     <span>Google Play</span>
                   </a>
-                  <a href='#' className='applestore-btn' target='_blank'>
+                  <a href='https://accounts.binance.com/en/register?ref=IR8OXGEF' className='applestore-btn' target='_blank'>
                     <img src='/images/apple-store.png' alt='image' />
                     Download on the
                     <span>Apple Store</span>

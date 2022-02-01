@@ -226,7 +226,7 @@ const Banner = () => {
                     </button>
                   </div>
                 </div>
-                <Link href='https://www.coinbase.com/accounts'>
+                <Link href='https://accounts.binance.com/en/register?ref=IR8OXGEF'>
                   <button type='submit'>
                     <i className='bx bxs-hand-right'></i> Buy Bitcoin
                   </button>

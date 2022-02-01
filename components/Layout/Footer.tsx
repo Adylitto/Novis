@@ -9,7 +9,7 @@ const Footer = () => {
             <div className='col-lg-4 col-sm-6 col-md-6'>
               <div className='single-footer-widget'>
                 <a href='index.html' className='d-inline-block logo'>
-                  <img src='/images/logo.png' alt='logo' />
+                  {/*<img src='/images/logo.png' alt='logo' />*/}
                 </a>
                 <div className='newsletter-form'>
                   <p>SUBSCRIBE TO OUR NEWSLETTER</p>

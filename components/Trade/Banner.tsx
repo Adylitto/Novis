@@ -76,9 +76,8 @@ const Banner = () => {
                   <span>for Litecoin</span>
                 </h1>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam, quis egnostrud exercitation ullamco.
+                  
+				 
                 </p>
                 <a href='#' className='link-btn'>
                   <i className='fas fa-caret-right'></i> Read More
@@ -178,7 +177,7 @@ const Banner = () => {
                     </button>
                   </div>
                 </div>
-                <Link href='https://www.coinbase.com/accounts'>
+                <Link href='https://accounts.binance.com/en/register?ref=IR8OXGEF'>
                   <button type='submit'>
                     <i className='bx bxs-hand-right'></i> Buy Bitcoin
                   </button>
