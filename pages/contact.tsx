@@ -19,20 +19,13 @@ const Contact = () => {
                   Touch!
                 </p>
                 <ul className='contact-list'>
-                  <li>
-                    <div className='icon'>
-                      <i className='bx bx-support'></i>
-                    </div>
-                    <p>
-                      <a href='tel:+41767755555'>+41 76 77 555 55</a>
-                    </p>
-                  </li>
+                  
                   <li>
                     <div className='icon'>
                       <i className='bx bx-globe'></i>
                     </div>
                     <p>
-                      <a href='mailto:hello@novis.com'>hello@novis.com</a>
+                      <a href='mailto:hello@novis.com'>Email us</a>
                     </p>
                   </li>
                   <li>
@@ -161,9 +154,13 @@ const Contact = () => {
                 </div>
               </div>
             </form>
+			
           </div>
+		  
         </div>
+		
       </div>
+	  
     </>
   );
 };

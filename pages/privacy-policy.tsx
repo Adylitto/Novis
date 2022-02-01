@@ -22,7 +22,7 @@ const PrivacyPolicy = () => {
               appropriate, name, email address, mailing address, phone number,
               company name. We will collect personal identification information
               from Users only if they voluntarily consent such information to
-              us. Users can always refuse to supply <a href='#'>personally</a>{' '}
+              us. Users can always refuse to supply personally{' '}
               identification information, except that it may prevent them from
               engaging in certain Site related activities.
             </p>
@@ -83,14 +83,11 @@ const PrivacyPolicy = () => {
               returns and shipping/handling fees of original purchase is
               non-refundable.
             </p>
-            <p>Last updated: January 25, 2021 at 24:00 pm</p>
-            <p>
-              <strong>Our Locations:</strong> <br /># 2750 Quadra <br />
-              Street Victoria, Canada
-            </p>
+            <p>Last updated: January 25, 2022 at 24:00 pm</p>
+            
             <p>
               <strong>Enquiry</strong>:{' '}
-              <a href='tel:+44587154756'>+445 871 54756</a>
+              <a href='/contact'>Contact us</a>
             </p>
             <p>
               <i>

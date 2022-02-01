@@ -36,7 +36,7 @@ const NavbarTwo = () => {
               <div className='logo'>
                 <Link href='/'>
                   <a>
-                    
+                    <img src='/images/logo.png' alt='logo' />
                   </a>
                 </Link>
               </div>
@@ -50,7 +50,7 @@ const NavbarTwo = () => {
                     </Link>
                   </div>
 
-                  <div className='option-item'>
+                  {/* <div className='option-item'>
                     <select className='form-select'>
                       <option defaultValue='0'>English</option>
                       <option defaultValue='1'></option>
@@ -59,7 +59,7 @@ const NavbarTwo = () => {
                       <option defaultValue='4'>Italiano</option>
                       <option defaultValue='5'>Polski</option>
                     </select>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>
@@ -342,7 +342,7 @@ const NavbarTwo = () => {
                       </a>
                     </Link>
                   </div>
-                  <div className='option-item'>
+                  {/* <div className='option-item'>
                     <select className='form-select'>
                       <option defaultValue='0'>English</option>
                       <option defaultValue='1'>Türkçe</option>
@@ -351,7 +351,7 @@ const NavbarTwo = () => {
                       <option defaultValue='4'>Italiano</option>
                       <option defaultValue='5'>Polski</option>
                     </select>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>
