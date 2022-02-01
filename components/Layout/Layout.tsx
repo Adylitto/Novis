@@ -18,25 +18,25 @@ const Layout = ({ children }) => {
   return (
     <>
       <Head>
-        <title>Novis - React/Next Cryptocurrency Template</title>
+        <title>TWIT SWAP - Buy Cryptocurrency Easy!</title>
         <meta
           name='viewport'
           content='width=device-width, initial-scale=1, shrink-to-fit=no'
         />
         <meta
           name='description'
-          content='Ribnic - Muli-Niche eCommerce React Template'
+          content='Buy Cryptocurrency Easy!'
         />
         <meta
           name='og:title'
           property='og:title'
-          content='Ribnic - Muli-Niche eCommerce React Template'
+          content='Buy Cryptocurrency Easy!'
         ></meta>
         <meta
           name='twitter:card'
-          content='Ribnic - Muli-Niche eCommerce React Template'
+          content='Buy Cryptocurrency Easy!'
         ></meta>
-        <link rel='canonical' href='https://novis-react.envytheme.com'></link>
+        <link rel='canonical' href='https://twist-swap.com'></link>
       </Head>
 
       {pathname === '/' ? <TopHeader /> : ''}

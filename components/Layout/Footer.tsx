@@ -133,9 +133,9 @@ const Footer = () => {
         <div className='copyright-area'>
           <div className='container'>
             <p>
-              Copyright 2021 <strong>Novis</strong>. All Rights Reserved by{' '}
-              <Link href='https://envytheme.com/'>
-                <a target='_blank'>EnvyTheme</a>
+              Copyright 2021 <strong>TWIST SWAP</strong>. All Rights Reserved by{' '}
+              <Link href='https://twist-swap.com/'>
+                <a target='_blank'>TWIST SWAP</a>
               </Link>
             </p>
           </div>

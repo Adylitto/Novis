@@ -37,8 +37,7 @@ const Navbar = () => {
               </div>
               <div className='logo'>
                 <Link href='/'>
-                  <a><p>adylittto</p>
-                    <img src='/images/logo.png' alt='logo' />
+                  <a><p>TWIST-Swap</p>
                   </a>
                 </Link>
               </div>
@@ -72,8 +71,8 @@ const Navbar = () => {
         <nav className={showMenu? 'show navbar navbar-expand-md navbar-light':'navbar navbar-expand-md navbar-light hide-menu'}>
           <div className='container'>
             <Link href='/'>
-              <a className='navbar-brand'>adylitto
-                <img src='/images/' alt='logo' />
+              <a className='navbar-brand'>TWIST SWAP
+                /*<img src='/images/' alt='logo' />*\
               </a>
             </Link>
             <div className='collapse navbar-collapse mean-menu'>
