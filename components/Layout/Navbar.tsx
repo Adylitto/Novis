@@ -72,43 +72,18 @@ const Navbar = () => {
           <div className='container'>
             <Link href='/'>
               <a className='navbar-brand'>TWIST SWAP
-                /*<img src='/images/' alt='logo' />*\
+                {/*<img src='/images/' alt='logo' />*/}
               </a>
             </Link>
             <div className='collapse navbar-collapse mean-menu'>
               <ul className='navbar-nav'>
                 <li className='nav-item'>
-                  <Link href='/' activeClassName='active'>
-                    <a className='dropdown-toggle nav-link'>Home</a>
+                  <Link href='/trade' activeClassName='active'>
+                       <a className='nav-link'>Trade</a>
                   </Link>
-                  <ul className='dropdown-menu'>
-                        <li className='nav-item'>
-                          <Link href='/trade' activeClassName='active'>
-                            <a className='nav-link'>Trade</a>
-                          </Link>
-                        </li>
-                        <li className='nav-item'>
-                          <Link href='/leadership' activeClassName='active'>
-                            <a className='nav-link'>Leadership Team</a>
-                          </Link>
-                        </li>
-                        <li className='nav-item'>
-                          <Link href='/privacy-policy' activeClassName='active'>
-                            <a className='nav-link'>Privacy Policy</a>
-                          </Link>
-                        </li>
-                        <li className='nav-item'>
-                          <Link
-                            href='/terms-condition'
-                            activeClassName='active'
-                          >
-                            <a className='nav-link'>Terms & Conditions</a>
-                          </Link>
-                        </li>
-                      </ul>
-                    </li>
-                  
+                 </li>
                
+   
                 <li className='nav-item megamenu'>
                   <Link href='#' activeClassName='active'>
                     <a className='dropdown-toggle nav-link'>Buy</a>
