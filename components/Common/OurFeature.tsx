@@ -7,9 +7,7 @@ const OurFeature = ({title}:{title?:string}) => {
           <div className='section-title'>
             <h2>{title}</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco.
+              
             </p>
           </div>
           <div className='row align-items-center justify-content-center'>
@@ -18,9 +16,7 @@ const OurFeature = ({title}:{title?:string}) => {
                 <img src='/images/features/features-img1.png' alt='image' />
                 <h3>Security First</h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipicing elit, sed do
-                  eiusmod tempor incididunt ut labore et doee magna aliqua. Ut
-                  enim ad minim veniam.
+                  
                 </p>
               </div>
             </div>
@@ -29,9 +25,7 @@ const OurFeature = ({title}:{title?:string}) => {
                 <img src='/images/features/features-img2.png' alt='image' />
                 <h3>Fast Withdrawals</h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipicing elit, sed do
-                  eiusmod tempor incididunt ut labore et doee magna aliqua. Ut
-                  enim ad minim veniam.
+                  
                 </p>
               </div>
             </div>
@@ -40,9 +34,7 @@ const OurFeature = ({title}:{title?:string}) => {
                 <img src='/images/features/features-img3.png' alt='image' />
                 <h3>24/7 Support</h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipicing elit, sed do
-                  eiusmod tempor incididunt ut labore et doee magna aliqua. Ut
-                  enim ad minim veniam.
+                  
                 </p>
               </div>
             </div>

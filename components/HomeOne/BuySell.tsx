@@ -8,9 +8,7 @@ const BuySell = ({pt70}:{pt70?:string}) => {
           <div className='section-title'>
             <h2>How to Buy and Sell Cryptocurrency</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco.
+              
             </p>
           </div>
           <div className='row justify-content-center'>
@@ -29,8 +27,7 @@ const BuySell = ({pt70}:{pt70?:string}) => {
                       </div>
                       <h3>Bank Transfers</h3>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusmod tempor incididunt ut.
+                        Fast and Secure SEPA Bank transfer 
                       </p>
                     </div>
                   </div>
@@ -39,10 +36,9 @@ const BuySell = ({pt70}:{pt70?:string}) => {
                       <div className='icon'>
                         <img src='/images/icon/icon13.png' alt='image' />
                       </div>
-                      <h3>Online Wallets</h3>
+                      <h3>On/Off line Wallets</h3>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusmod tempor incididunt ut.
+                        Compatible with both yes you can plug your offline cold wallet 
                       </p>
                     </div>
                   </div>
@@ -53,8 +49,8 @@ const BuySell = ({pt70}:{pt70?:string}) => {
                       </div>
                       <h3>Cash Payment</h3>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusmod tempor incididunt ut.
+                        
+					
                       </p>
                     </div>
                   </div>
@@ -65,8 +61,7 @@ const BuySell = ({pt70}:{pt70?:string}) => {
                       </div>
                       <h3>Debit/Credit Cards</h3>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusmod tempor incididunt ut.
+                    
                       </p>
                     </div>
                   </div>
@@ -77,8 +72,7 @@ const BuySell = ({pt70}:{pt70?:string}) => {
                       </div>
                       <h3>Discounted Gift Cards</h3>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusmod tempor incididunt ut.
+                        
                       </p>
                     </div>
                   </div>
@@ -89,8 +83,7 @@ const BuySell = ({pt70}:{pt70?:string}) => {
                       </div>
                       <h3>Goods & Services</h3>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusmod tempor incididunt ut.
+                        
                       </p>
                     </div>
                   </div>

@@ -7,9 +7,7 @@ const FeedBack = () => {
           <div className='section-title'>
             <h2>Trusted by Thousands of Users</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco.
+              
             </p>
           </div>
           <div className='row justify-content-center'>

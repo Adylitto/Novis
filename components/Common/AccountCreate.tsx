@@ -10,10 +10,7 @@ const AccountCreate = ({title}:{title:string}) => {
                 <div className='section-title'>
                   <h2>{title}</h2>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                    ullamco.
+                    
                   </p>
                 </div>
                 <div className='row justify-content-center'>
@@ -24,8 +21,7 @@ const AccountCreate = ({title}:{title:string}) => {
                       </div>
                       <h3>Create Account</h3>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusmod tempor incididunt ut labore.
+                        
                       </p>
                     </div>
                   </div>
@@ -36,8 +32,7 @@ const AccountCreate = ({title}:{title:string}) => {
                       </div>
                       <h3>Link Your Bank Account</h3>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusmod tempor incididunt ut labore.
+                        
                       </p>
                     </div>
                   </div>
@@ -48,8 +43,7 @@ const AccountCreate = ({title}:{title:string}) => {
                       </div>
                       <h3>Start Buying & Selling</h3>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusmod tempor incididunt ut labore.
+                        
                       </p>
                     </div>
                   </div>

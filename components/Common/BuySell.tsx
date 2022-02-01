@@ -17,9 +17,7 @@ const BuySell = () => {
                 </div>
                 <h3>Bank Transfers</h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut. Lorem ipsum dolor sit amet,
-                  consectetur elit.
+                  
                 </p>
               </div>
             </div>
@@ -30,9 +28,7 @@ const BuySell = () => {
                 </div>
                 <h3>Online Wallets</h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut. Lorem ipsum dolor sit amet,
-                  consectetur elit.
+                  
                 </p>
               </div>
             </div>
@@ -43,9 +39,7 @@ const BuySell = () => {
                 </div>
                 <h3>Cash Payment</h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut. Lorem ipsum dolor sit amet,
-                  consectetur elit.
+                  
                 </p>
               </div>
             </div>
@@ -56,9 +50,7 @@ const BuySell = () => {
                 </div>
                 <h3>Debit/Credit Cards</h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut. Lorem ipsum dolor sit amet,
-                  consectetur elit.
+                  
                 </p>
               </div>
             </div>
@@ -69,9 +61,7 @@ const BuySell = () => {
                 </div>
                 <h3>Discounted Gift Cards</h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut. Lorem ipsum dolor sit amet,
-                  consectetur elit.
+                  
                 </p>
               </div>
             </div>
@@ -82,9 +72,7 @@ const BuySell = () => {
                 </div>
                 <h3>Goods & Services</h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut. Lorem ipsum dolor sit amet,
-                  consectetur elit.
+                  
                 </p>
               </div>
             </div>

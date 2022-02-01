@@ -16,7 +16,7 @@ const Affiliate = () => {
       <div className='earn-money-area pt-100 pb-70 bg-f9f9f9'>
         <div className='container'>
           <div className='section-title'>
-            <h2>Earn Money With Novis</h2>
+            <h2>Earn Money With Us!</h2>
             <p>
               
             </p>

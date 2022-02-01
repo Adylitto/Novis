@@ -50,28 +50,19 @@ const Portfolio: React.FC<PortfolioProps> = ({
                       <div className='content'>
                         <h3>Manage Your Portfolio</h3>
                         <p>
-                          Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit, sed do eiusmod tempor incididunt ut labore et
-                          dolore magna aliqua. Ut enim ad minim veniam, quis
-                          nostrud exercitation ullamco.
+                          
                         </p>
                       </div>
                       <div className='content'>
-                        <h3>Poerfull API</h3>
+                        <h3>Powerfull API</h3>
                         <p>
-                          Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit, sed do eiusmod tempor incididunt ut labore et
-                          dolore magna aliqua. Ut enim ad minim veniam, quis
-                          nostrud exercitation ullamco.
+                          
                         </p>
                       </div>
                       <div className='content'>
                         <h3>Vault Protection</h3>
                         <p>
-                          Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit, sed do eiusmod tempor incididunt ut labore et
-                          dolore magna aliqua. Ut enim ad minim veniam, quis
-                          nostrud exercitation ullamco.
+                          
                         </p>
                       </div>
                     </OwlCarousel>

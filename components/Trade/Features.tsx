@@ -24,7 +24,7 @@ const Features = () => {
                 <img src='/images/features/features-img4.png' alt='image' />
                 <h3>Set Up Your Account</h3>
                 <p>
-                  With an Anycoin Direct account you will gain access to our platform where you can buy, sell and trade your cryptocurrencies. Citizens from all over Europe can create an account in a matter of minutes. Just start your order and our step-by-step process will guide you through the procedure.
+                  With your account you will gain access to our platform where you can buy, sell and trade your cryptocurrencies. Citizens from all over Europe can create an account in a matter of minutes. Just start your order and our step-by-step process will guide you through the procedure.
                 </p>
               </div>
             </div>

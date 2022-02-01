@@ -14,9 +14,7 @@ const AppDownload = () => {
               <div className='app-download-content'>
                 <h2>Trade On The Mobile App</h2>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam, quis nostrud exercitation ullamco.
+                  
                 </p>
                 <div className='btn-box'>
                   <a href='#' className='playstore-btn' target='_blank'>

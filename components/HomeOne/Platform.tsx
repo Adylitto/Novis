@@ -54,9 +54,7 @@ const Platform = () => {
           <div className='section-title'>
             <h2>The Most Trusted Cryptocurrency Platform</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco.
+              
             </p>
           </div>
           <div className='cryptocurrency-platform-slides'>
@@ -81,10 +79,7 @@ const Platform = () => {
                       </a>
                     </h3>
                     <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                      sed do eiusmod tempor incididunt ut labore et dolore magna
-                      aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                      ullamco.
+                      
                     </p>
                     <Link href='/cryptocurrency-details'>
                       <a className='link-btn'>
@@ -105,14 +100,11 @@ const Platform = () => {
                     </div>
                     <h3>
                       <a href='cryptocurrency-details.html'>
-                        Build Your Reputation
+                        Learn from Crypto Experts
                       </a>
                     </h3>
                     <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                      sed do eiusmod tempor incididunt ut labore et dolore magna
-                      aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                      ullamco.
+                      
                     </p>
                     <Link href='/cryptocurrency-details'>
                       <a className='link-btn'>
@@ -137,10 +129,7 @@ const Platform = () => {
                       </a>
                     </h3>
                     <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                      sed do eiusmod tempor incididunt ut labore et dolore magna
-                      aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                      ullamco.
+                      
                     </p>
                     <Link href='/cryptocurrency-details'>
                       <a className='link-btn'>
@@ -160,13 +149,10 @@ const Platform = () => {
                       <img src='/images/icon/icon7.png' alt='image' />
                     </div>
                     <h3>
-                      <a href='cryptocurrency-details.html'>Secure Storage</a>
+                      <a href='cryptocurrency-details.html'>Secure Trading</a>
                     </h3>
                     <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                      sed do eiusmod tempor incididunt ut labore et dolore magna
-                      aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                      ullamco.
+                      
                     </p>
                     <Link href='/cryptocurrency-details'>
                       <a className='link-btn'>
