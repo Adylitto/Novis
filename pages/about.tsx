@@ -9,11 +9,9 @@ const About = () => {
         <div className='container'>
           <div className='about-content'>
             <div className='content'>
-              <h1>Not Going Anywhere, We Are Here!</h1>
+              <h1>We Are Here!</h1>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco.
+                
               </p>
             </div>
           </div>
@@ -26,15 +24,12 @@ const About = () => {
                 <i className='bx bx-coin-stack'></i>
               </div>
               <div className='timeline-event-date bg1'>
-                <span>JAN 2007</span>
+                <span>JAN 2022</span>
               </div>
               <div className='timeline-event-content'>
                 <h3>Novis is Born</h3>
                 <p>
-                  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel,
-                  nam! Nam eveniet ut aliquam ab asperiores, accusamus iure
-                  veniam corporis incidunt reprehenderit accusantium id aut
-                  architecto harum quidem dolorem in!
+                  
                 </p>
               </div>
             </div>
@@ -48,10 +43,7 @@ const About = () => {
               <div className='timeline-event-content'>
                 <h3>The Rise of Novis</h3>
                 <p>
-                  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel,
-                  nam! Nam eveniet ut aliquam ab asperiores, accusamus iure
-                  veniam corporis incidunt reprehenderit accusantium id aut
-                  architecto harum quidem dolorem in!
+                  
                 </p>
               </div>
             </div>
@@ -65,10 +57,7 @@ const About = () => {
               <div className='timeline-event-content'>
                 <h3>The Novis Mobile App</h3>
                 <p>
-                  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel,
-                  nam! Nam eveniet ut aliquam ab asperiores, accusamus iure
-                  veniam corporis incidunt reprehenderit accusantium id aut
-                  architecto harum quidem dolorem in!
+                  
                 </p>
               </div>
             </div>
@@ -82,10 +71,7 @@ const About = () => {
               <div className='timeline-event-content'>
                 <h3>Adding Cryptocurrencies</h3>
                 <p>
-                  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel,
-                  nam! Nam eveniet ut aliquam ab asperiores, accusamus iure
-                  veniam corporis incidunt reprehenderit accusantium id aut
-                  architecto harum quidem dolorem in!
+                  
                 </p>
               </div>
             </div>
@@ -99,10 +85,7 @@ const About = () => {
               <div className='timeline-event-content'>
                 <h3>Trading Platform</h3>
                 <p>
-                  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel,
-                  nam! Nam eveniet ut aliquam ab asperiores, accusamus iure
-                  veniam corporis incidunt reprehenderit accusantium id aut
-                  architecto harum quidem dolorem in!
+                  
                 </p>
               </div>
             </div>

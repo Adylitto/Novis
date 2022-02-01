@@ -10,7 +10,7 @@ const Wallet = () => {
     <>
       <PageBanner
         pageTitle='Cryptocurrency Wallet'
-        pageSubTitle='Novis is the easiest place to buy and sell cryptocurrency'
+        pageSubTitle='The easiest place to buy and sell cryptocurrency'
       />
       <div className='wallet-area ptb-100'>
         <div className='container'>
@@ -24,7 +24,7 @@ const Wallet = () => {
                 <p>
                   
                 </p>
-                <a className='default-btn'>
+                <a href="https://accounts.binance.com/en/register?ref=IR8OXGEF" className='default-btn'>
                   <i className='bx bxs-user'></i> Create Your Wallet
                 </a>
               </div>
@@ -57,10 +57,7 @@ const Wallet = () => {
                     <div className='box'>
                       <h3>Best in Class Security</h3>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusmod tempor incididunt ut labore et dolore
-                        magna aliqua. Ut enim ad minim veniam, quis nostrud
-                        exercitation ullamco.
+                        
                       </p>
                       <ul className='features-list'>
                         <li>
@@ -68,7 +65,7 @@ const Wallet = () => {
                           have control
                         </li>
                       </ul>
-                      <Link href="https://www.coinbase.com">
+                      <Link href="https://accounts.binance.com/en/register?ref=IR8OXGEF">
                       <a className='default-btn'>
                         <i className='bx bxs-user'></i> Learn More
                       </a>
