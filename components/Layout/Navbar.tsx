@@ -37,7 +37,7 @@ const Navbar = () => {
               </div>
               <div className='logo'>
                 <Link href='/'>
-                  <a><p>TWIST-Swap</p>
+                  <a><p>TWIST SWAP</p>
                   </a>
                 </Link>
               </div>
@@ -58,9 +58,8 @@ const Navbar = () => {
                       <option value='0'>English</option>
                       <option value='1'>Français</option>
                       <option value='2'>Español</option>
-                      <option value='3'>한국어</option>
-                      <option value='4'>Italiano</option>
-                      <option value='5'>Deutsch</option>
+                      <option value='3'>Italiano</option>
+                      <option value='4'>Deutsch</option>
                     </select>
                   </div>
                 </div>
@@ -72,7 +71,7 @@ const Navbar = () => {
           <div className='container'>
             <Link href='/'>
               <a className='navbar-brand'>TWIST SWAP
-                {/*<img src='/images/' alt='logo' />*/}
+                <img src='/images/logo.png' alt='logo' />
               </a>
             </Link>
             <div className='collapse navbar-collapse mean-menu'>
@@ -286,7 +285,7 @@ const Navbar = () => {
                       </a>
                     </Link>
                   </div>
-                  {/* <div className='option-item'>
+                  <div className='option-item'>
                     <select className='form-select'>
                       <option value='0'>English</option>
                       <option value='1'>Türkçe</option>
@@ -295,7 +294,7 @@ const Navbar = () => {
                       <option value='4'>Italiano</option>
                       <option value='5'>Polski</option>
                     </select>
-                  </div> */}
+                  </div> 
                 </div>
               </div>
             </div>
